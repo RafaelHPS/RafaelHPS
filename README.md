@@ -1,19 +1,14 @@
 # :orange: Hello World  :robot:
 
-## Sobre
+## Sobre mim
 
 **Nome:** Rafael<br>
 **Idade:** 21 anos<br>
-**Desenvolvedor Jr. <a href="https://www.uipath.com/pt/rpa/robotic-process-automation"> RPA </a> :point_left:**
-
-
-## Sou Desenvolvedor 
-
-<img src="https://user-images.githubusercontent.com/32595366/91922068-60700580-eca3-11ea-91b5-8cc4e4c87fbe.gif" width="20%" height="20%">
-
-## Gosto de Dançar Forró :man_dancing:
-
+**Desenvolvedor Jr. <a href="https://www.uipath.com/pt/rpa/robotic-process-automation"> RPA </a> :point_left:**<br>
+<img src="https://user-images.githubusercontent.com/32595366/91922068-60700580-eca3-11ea-91b5-8cc4e4c87fbe.gif" width="20%" height="20%"><br><br>
+**Gosto de Dançar Forró :man_dancing:**<br><br>
 <img src="https://user-images.githubusercontent.com/32595366/91922806-3b7c9200-eca5-11ea-9117-781f4b3c9790.gif" width="35%" height="35%">
+
 
 
 <!--
