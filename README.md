@@ -12,3 +12,4 @@
 ## Alguns Projetos
 
 - [Uri_Online_Judge_Resolvidos](https://github.com/RafaelHPS/Uri_Online_Judge_Resolvidos) - Exercícios resolvidos na plataforma [Uri Online Judge](https://www.urionlinejudge.com.br/judge/en/login).
+- [QuarentenaDados](https://github.com/RafaelHPS/QuarentenaDados) - Análise realizada de alguns Datasets na semana [Quarentena Dados](https://www.alura.com.br/quarentenadados) da [Alura](https://www.alura.com.br/).
