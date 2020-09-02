@@ -17,7 +17,6 @@
 
 ## Participação em Competições
 
-
 - [Maratona de Programação Interfatecs](https://fundacaofat.org.br/maratona-de-programacao-interfatecs) 2018 1a Fase Sorocaba - 7° Lugar - Equipe Dragonball C
 - [Maratona de Programação Interfatecs](https://fundacaofat.org.br/maratona-de-programacao-interfatecs) 2018 2a Fase Americana - 7° Lugar - Equipe Dragonball C
 - [Maratona de SBC](http://maratona.sbc.org.br/sobre20.html) 2018 1a Fase Sorocaba - 10° Lugar - Equipe Dragonball C
