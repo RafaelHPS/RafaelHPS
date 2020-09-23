@@ -20,9 +20,9 @@
 
 - [Maratona de Programação Interfatecs](https://fundacaofat.org.br/maratona-de-programacao-interfatecs) 2018 1a Fase Sorocaba - 7° Lugar - Equipe Dragonball C
 - [Maratona de Programação Interfatecs](https://fundacaofat.org.br/maratona-de-programacao-interfatecs) 2018 2a Fase Americana - 7° Lugar - Equipe Dragonball C
-- [Maratona de SBC](http://maratona.sbc.org.br/sobre20.html) 2018 1a Fase Sorocaba - 10° Lugar - Equipe Dragonball C
-- [Maratona de Programação Interfatecs](https://fundacaofat.org.br/maratona-de-programacao-interfatecs) 2019 1a Fase Sorocaba - 1° Lugar - Equipe RENEGEDES
-- [Maratona de Programação Interfatecs](https://fundacaofat.org.br/maratona-de-programacao-interfatecs) 2019 2a Fase Ourinhos - [1° Lugar - Equipe RENEGEDES](https://www.cps.sp.gov.br/fatec-sorocaba-e-campea-da-8a-edicao-da-interfatecs/)
-- [Maratona de SBC](http://maratona.sbc.org.br/sobre20.html) 2019 Fase Regional Sorocaba - 4° Lugar (Classificados pelas regras de sede) - Equipe RENEGEDES
-- [Maratona de SBC](http://maratona.sbc.org.br/sobre20.html) 2019 Fase Brasileira Campina Grande - 43° Lugar - Equipe RENEGEDES
+- [Maratona de Programação - SBC](http://maratona.sbc.org.br/sobre20.html) 2018 1a Fase Sorocaba - 10° Lugar - Equipe Dragonball C
+- [Maratona de Programação Interfatecs](https://fundacaofat.org.br/maratona-de-programacao-interfatecs) 2019 1a Fase Sorocaba - 1° Lugar - Equipe RENEGADES
+- [Maratona de Programação Interfatecs](https://fundacaofat.org.br/maratona-de-programacao-interfatecs) 2019 2a Fase Ourinhos - [1° Lugar - Equipe RENEGADES](https://www.cps.sp.gov.br/fatec-sorocaba-e-campea-da-8a-edicao-da-interfatecs/)
+- [Maratona de Programação - SBC](http://maratona.sbc.org.br/sobre20.html) 2019 Fase Regional Sorocaba - 4° Lugar (Classificados pelas regras de sede) - Equipe RENEGADES
+- [Maratona de Programação - SBC](http://maratona.sbc.org.br/sobre20.html) 2019 Fase Brasileira Campina Grande - 43° Lugar - Equipe RENEGADES
 - [Hackaton HyperHack](https://communityevents.uipath.com/events/details/uipath-hackathons-presents-participate-in-the-uipath-hyperhack/) [UiPath](https://www.uipath.com/pt/) 2020 - Equipe T2Coders
