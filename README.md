@@ -11,9 +11,6 @@
 
 ## Alguns Projetos
 
-- [Uri_Online_Judge_Resolvidos](https://github.com/RafaelHPS/Uri_Online_Judge_Resolvidos) - Exercícios resolvidos na plataforma [Uri Online Judge](https://www.urionlinejudge.com.br/judge/en/login).
-- [QuarentenaDados](https://github.com/RafaelHPS/QuarentenaDados) - Análise realizada de alguns Datasets na semana [Quarentena Dados](https://www.alura.com.br/quarentenadados) da [Alura](https://www.alura.com.br/).
-- [Imersão CSS](https://github.com/RafaelHPS/imersaocss) - Site criado na semana [Imersão CSS](https://www.alura.com.br/imersao-css) da [Alura](https://www.alura.com.br/).
 - [Instagram Post Comments Feelings](https://github.com/RafaelHPS/Instagram_Post_Comments_Feelings) - Projeto Realizado para participação do Hackaton HyperHack criado pela UiPath
 
 ## Participação em Competições
